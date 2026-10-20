@@ -24,6 +24,9 @@ Spring Data JPA & H2 Database (ou MySQL)
 
 Springdoc OpenAPI UI : springdoc-openapi-starter-webmvc-ui (v2.x)
 
+Maven : Gestionnaire de dépendances
+
+Lombok : Pour réduire le code boilerplate (Getters/Setters, Constructors)
 
 <img width="1115" height="933" alt="image" src="https://github.com/user-attachments/assets/acdc7929-441b-41f9-b742-6f94f02923a9" />
 <img width="1117" height="972" alt="image" src="https://github.com/user-attachments/assets/20003752-b7ba-4c4c-94a4-7560388a689e" />
@@ -43,6 +46,3 @@ Springdoc OpenAPI UI : springdoc-openapi-starter-webmvc-ui (v2.x)
 <img width="1801" height="762" alt="image" src="https://github.com/user-attachments/assets/906c1f48-a2bb-4337-bc7a-a958fbac571c" />
 
 
-Maven : Gestionnaire de dépendances
-
-Lombok : Pour réduire le code boilerplate (Getters/Setters, Constructors)
